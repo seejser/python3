@@ -4,7 +4,7 @@
 ### jupyter notebook的安装和打开
 1.install
 ```
-pip install jupyter
+pip3 install jupyter
 ```
 2.open
 ```
